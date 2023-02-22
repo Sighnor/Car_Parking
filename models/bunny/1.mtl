@@ -1,0 +1,107 @@
+newmtl Model001_Material001
+Kd 0.3000 0.6000 0.6000
+Ks 0.3000 0.7937 0.7937
+Ns 90
+map_Kd P4.png
+
+newmtl Model001_Material002
+Kd 0.3000 0.6000 0.6000
+Ks 0.3000 0.7937 0.7937
+Ns 90
+map_Kd P3.png
+
+newmtl Model001_Material003
+Kd 0.6000 0.6000 0.6000
+Ks 0.7937 0.7937 0.7937
+Ns 150
+map_Kd P6.png
+
+newmtl Model001_Material004
+Kd 0.6000 0.6000 0.6000
+Ks 0.7937 0.7937 0.7937
+Ns 150
+map_Kd P5.png
+
+newmtl Model001_Material005
+Kd 0.6000 0.6000 0.6000
+Ks 0.7937 0.7937 0.7937
+Ns 150
+map_Kd P5.png
+
+newmtl Model001_Material006
+Kd 0.6000 0.6000 0.6000
+Ks 0.7937 0.7937 0.7937
+Ns 150
+map_Kd P6.png
+
+newmtl Model001_Material007
+Kd 0.6000 0.6000 0.6000
+Ks 0.7937 0.7937 0.7937
+Ns 150
+map_Kd P5.png
+
+newmtl Model001_Material008
+Kd 0.6000 0.6000 0.6000
+Ks 0.7937 0.7937 0.7937
+Ns 150
+map_Kd P5.png
+
+newmtl Model001_Material009
+Kd 0.6000 0.6000 0.6000
+Ks 0.7937 0.7937 0.7937
+Ns 150
+map_Kd P6.png
+
+newmtl Model001_Material010
+Kd 0.6000 0.6000 0.6000
+Ks 0.7937 0.7937 0.7937
+Ns 150
+map_Kd P6.png
+
+newmtl Model001_Material011
+Kd 0.6000 0.6000 0.6000
+Ks 0.7937 0.7937 0.7937
+Ns 150
+map_Kd P6.png
+
+newmtl Model001_Material012
+Kd 0.6000 0.6000 0.6000
+Ks 0.7937 0.7937 0.7937
+Ns 150
+map_Kd P6.png
+
+newmtl Model001_Material013
+Kd 0.6000 0.6000 0.6000
+Ks 0.7937 0.7937 0.7937
+Ns 150
+map_Kd P5.png
+
+newmtl Model001_Material014
+Kd 0.6000 0.6000 0.6000
+Ks 0.7937 0.7937 0.7937
+Ns 150
+map_Kd P6.png
+
+newmtl Model001_Material015
+Kd 0.6000 0.6000 0.6000
+Ks 0.7937 0.7937 0.7937
+Ns 150
+map_Kd P5.png
+
+newmtl Model001_Material016
+Kd 0.5000 0.6000 0.6000
+Ks 0.45000 0.7937 0.7937
+Ns 75
+map_Kd P2.png
+
+newmtl Model001_Material017
+Kd 0.4000 0.6000 0.6000
+Ks 0.5000 0.7937 0.7937
+Ns 250
+map_Kd P0.png
+
+newmtl Model001_Material018
+Kd 0.3000 0.6000 0.6000
+Ks 0.3000 0.7937 0.7937
+Ns 90
+map_Kd P4.png
