@@ -1,3 +1,0 @@
-D:/Dai/101/car/CMakeFiles/RayTracing.dir
-D:/Dai/101/car/CMakeFiles/edit_cache.dir
-D:/Dai/101/car/CMakeFiles/rebuild_cache.dir
